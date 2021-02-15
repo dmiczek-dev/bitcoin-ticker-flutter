@@ -1,0 +1,1 @@
+Cryptocurrencies ticker made in flutter for learning purposes
